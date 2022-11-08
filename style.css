@@ -50,7 +50,8 @@ input{
     margin-bottom: 9px;
     text-align: center;
     background-color: #c4b7a6;
-    opacity: 50%;
+    opacity: 60%;
+    font-weight: bold;
 }
 
 button {
